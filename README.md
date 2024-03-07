@@ -1,0 +1,2 @@
+# manoket
+this is testnet
